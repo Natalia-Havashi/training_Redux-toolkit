@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/training_Redux-toolkit/static/css/main.b5320759.css",
+    "main.js": "/training_Redux-toolkit/static/js/main.5ceb568b.js",
+    "index.html": "/training_Redux-toolkit/index.html",
+    "main.b5320759.css.map": "/training_Redux-toolkit/static/css/main.b5320759.css.map",
+    "main.5ceb568b.js.map": "/training_Redux-toolkit/static/js/main.5ceb568b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.5ceb568b.js"
+  ]
+}
